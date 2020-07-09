@@ -5,11 +5,11 @@ require 'xeroizer/version'
 
 Gem::Specification.new do |s|
   s.name = "xeroizer-3-pre-beta"
-  s.version = Xeroizer::VERSION.dup
+  s.version = "3.0.0-beta"
   s.authors = ["Wayne Robinson"]
   s.email = ["wayne.robinson@gmail.com", "api@xero.com"]
-  s.summary = "Fork of Ruby Library for Xero accounting API. Do not use this forked gem."
-  s.description = "Fork of Ruby library for the Xero accounting API. Do not use this forked gem. Originally developed by Wayne Robinson, now maintained by the Xero API Team & Xero/Ruby developer community."
+  s.summary = "Do not use this forked gem. Fork of Ruby Library for Xero accounting API. Do not use this forked gem."
+  s.description = "Do not use this forked gem. Fork of Ruby library for the Xero accounting API. Do not use this forked gem. Originally developed by Wayne Robinson, now maintained by the Xero API Team & Xero/Ruby developer community."
   s.homepage = "http://github.com/dbvnz/xeroizer-3-pre-beta"
   s.licenses = ["MIT"]
   s.metadata = {
