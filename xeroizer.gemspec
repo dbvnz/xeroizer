@@ -4,13 +4,13 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'xeroizer/version'
 
 Gem::Specification.new do |s|
-  s.name = "xeroizer"
+  s.name = "xeroizer-3-pre-beta"
   s.version = Xeroizer::VERSION.dup
   s.authors = ["Wayne Robinson"]
   s.email = ["wayne.robinson@gmail.com", "api@xero.com"]
-  s.summary = "Ruby Library for Xero accounting API"
-  s.description = "Ruby library for the Xero accounting API.  Originally developed by Wayne Robinson, now maintained by the Xero API Team & Xero/Ruby developer community."
-  s.homepage = "http://github.com/waynerobinson/xeroizer"
+  s.summary = "Fork of Ruby Library for Xero accounting API. Do not use this forked gem."
+  s.description = "Fork of Ruby library for the Xero accounting API. Do not use this forked gem. Originally developed by Wayne Robinson, now maintained by the Xero API Team & Xero/Ruby developer community."
+  s.homepage = "http://github.com/dbvnz/xeroizer-3-pre-beta"
   s.licenses = ["MIT"]
   s.metadata = {
     "bug_tracker_uri" => "https://github.com/waynerobinson/xeroizer/issues",
