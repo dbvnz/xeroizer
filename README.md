@@ -14,12 +14,19 @@ As a result, I'm setting up this gem so the rvm1-capistrano3 gem can reference i
 ====================
 
 **Homepage**: 		[http://waynerobinson.github.com/xeroizer](http://waynerobinson.github.com/xeroizer)
+
 **Git**: 					[git://github.com/waynerobinson/xeroizer.git](git://github.com/waynerobinson/xeroizer.git)
+
 **Github**: 			[https://github.com/waynerobinson/xeroizer](https://github.com/waynerobinson/xeroizer)
+
 **Author**: 			Wayne Robinson [http://www.wayne-robinson.com](http://www.wayne-robinson.com)
+
 **Contributors**: See Contributors section below
+
 **Copyright**:    2007-2013
+
 **License**:      MIT License
+
 
 ### Contributors
 Xeroizer was inspired by the https://github.com/tlconnor/xero_gateway gem created by Tim Connor
